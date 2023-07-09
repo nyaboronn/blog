@@ -45,7 +45,7 @@ params:
         lastUpdated: Jan 02, 2006 15:04 MST
 
     sidebar:
-        emoji: 🍥
+        emoji: 
         subtitle: Cosas que hago en mi tiempo libre.
         avatar:
             enabled: true
@@ -191,11 +191,11 @@ menu:
           params:
               icon: brand-github
 
-        - identifier: twitter
-          name: Twitter
-          url: https://twitter.com
+        - identifier: speaker-deck
+          name: Speaker Deck
+          url: https://speakerdeck.com/nyaboron
           params:
-              icon: brand-twitter
+              icon: speaker-deck
 
 related:
     includeNewer: true
