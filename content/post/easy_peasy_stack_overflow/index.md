@@ -1,5 +1,5 @@
 +++
-author = "Hugo Authors"
+author = "Nyaboron"
 title = "Easy peasy Stack Overflow"
 date = "2021-02-19"
 description = ""

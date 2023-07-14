@@ -1,5 +1,5 @@
 +++
-author = "Hugo Authors"
+author = "Nyaboron"
 title = "Driver para detectar el ataque DKOM"
 date = "2021-07-02"
 description = ""

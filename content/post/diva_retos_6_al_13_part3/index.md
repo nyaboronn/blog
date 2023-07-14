@@ -1,5 +1,5 @@
 +++
-author = "Hugo Authors"
+author = "Nyaboron"
 title = "DIVA – Retos 6 al 13 (3/3)"
 date = "2021-05-20"
 description = ""
