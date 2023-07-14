@@ -1,5 +1,5 @@
 +++
-author = "Hugo Authors"
+author = "Nyaboron"
 title = "Reversing estático y dinámico de un keylogger (1/2)"
 date = "2021-04-05"
 description = ""

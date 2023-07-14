@@ -1,5 +1,5 @@
 +++
-author = "Hugo Authors"
+author = "Nyaboron"
 title = "DIVA – Análisis dinámico (1/3)"
 date = "2021-05-13"
 description = ""
