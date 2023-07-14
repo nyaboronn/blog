@@ -2,14 +2,13 @@
 author = "Hugo Authors"
 title = "Driver para detectar el ataque DKOM"
 date = "2021-07-02"
-description = "Driver para detectar el ataque DKOM"
+description = ""
 categories = [
-    "Test"
+    "windows"
 ]
 tags = [
-    "emoji",
+    "windows",
 ]
-image = "portada.png"
 +++
 
 > Repo con el código: [nyaboronn/detectarDKOM](https://github.com/nyaboronn/detectarDKOM)
