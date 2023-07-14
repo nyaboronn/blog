@@ -2,12 +2,12 @@
 author = "Hugo Authors"
 title = "Easy peasy Stack Overflow"
 date = "2021-02-19"
-description = "Easy peasy Stack Overflow"
+description = ""
 categories = [
-    "Test"
+    "exploit"
 ]
 tags = [
-    "emoji",
+    "exploit",
 ]
 +++
 

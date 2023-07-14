@@ -1,13 +1,13 @@
 +++
 author = "Hugo Authors"
 title = "DIVA – Análisis dinámico (1/3)"
-date = "2021-07-02"
-description = "DIVA – Análisis dinámico (1/3)"
+date = "2021-05-13"
+description = ""
 categories = [
-    "Test"
+    "android reversing"
 ]
 tags = [
-    "emoji",
+    "android reversing",
 ]
 +++
 

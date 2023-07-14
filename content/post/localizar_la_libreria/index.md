@@ -3,6 +3,8 @@ title: Localizar la librería
 date: 2020-12-21
 categories:
     - Análisis de código
+tags:
+    - Análisis de código
 ---
 
 En esta entrada resolveré un reto relacionado con leer código e intentar averiguar su funcionamiento.

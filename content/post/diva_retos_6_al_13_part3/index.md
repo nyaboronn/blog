@@ -2,12 +2,12 @@
 author = "Hugo Authors"
 title = "DIVA – Retos 6 al 13 (3/3)"
 date = "2021-05-20"
-description = "DIVA – Retos 6 al 13 (3/3)"
+description = ""
 categories = [
-    "Test"
+    "android reversing"
 ]
 tags = [
-    "emoji",
+    "android reversing",
 ]
 +++
 
