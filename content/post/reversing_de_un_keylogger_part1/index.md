@@ -13,6 +13,8 @@ tags = [
 
 Esta entrada consiste en hacer reversing de un lab que trata de un keylogger, pero con la idea de llevar una metología y tener como resultado un documento algo más profesional por decirlo de alguna forma. La muestra no es nada compleja ya que no tiene protecciones (ante depuradores máquinas virtuales, …) y no es necesario reversear algún protocolo red pero es una buena práctica. 
 
+> Enlace a la [muestra](files/muestra.zip)
+
 La estructura de la explicación es la siguiente:
 
 - Preparar el entorno
